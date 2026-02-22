@@ -16,6 +16,6 @@
 
 "If you want any bug reports or you wanted to support, please contact YellowCatball on Discord DMs. her username was (@yellowcatball)."
 
-Copyright © by PerspectiveCydia, licensed by the founder YellowCatball.
-
 # END LICENSE AGREEMENT
+
+Copyright © by PerspectiveCydia, licensed by the founder YellowCatball.
