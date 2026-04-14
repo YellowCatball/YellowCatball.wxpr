@@ -1,6 +1,6 @@
 # YellowCatball.wxpr
 
-This is a preset pack for an old school program, Debugmode WAX, however, there are no updates on that software so i decided to make presets for it for fun.
+This is a preset pack for one of Debugmode's old programs, WAX, however, there are no updates on that software so i decided to make presets for it for fun.
 
 For more infomation of the original Software, please read the YTPTennisWiki article because Wikipedia doesn't have one.
 https://ytptennis.com/w/index.php?title=Debugmode_Wax
